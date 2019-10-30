@@ -1,2 +1,3 @@
 # hello
-Greetings to people
+Greetings to all people.
+It is good to know more people.
